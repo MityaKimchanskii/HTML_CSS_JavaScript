@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.bg {
+    background: url('https://www.fortressofsolitude.co.za/wp-content/uploads/2017/02/Marvel-Comics-15-Things-You-Probably-Didnt-Know-1140x570.jpeg') no-repeat center center/cover;
+    position: absolute;
+    top: -30;
+    left: -30;
+    width: calc(100vw + 60px);
+    height: calc(100vw + 60px);
+    z-index: -1;
+    filter: blur(0px);
+} 
+
+.loading-text {
+    font-size: 50px;
+    color: black;
+}
