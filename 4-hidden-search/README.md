@@ -12,7 +12,7 @@ btn.addEventListener('click', () => {
 ```
 
           
-<img src='https://github.com/MityaKimchanskii/HTML_CSS_JavaScript/blob/main/4%20-%20hidden-search/4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/MityaKimchanskii/HTML_CSS_JavaScript/blob/main/4-hidden-search/4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
  
